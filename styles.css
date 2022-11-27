@@ -95,3 +95,8 @@ blockquote{
     }
 }
 
+@media (max-width: 481px) {
+    * {
+        font-size: small;
+    }
+}
